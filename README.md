@@ -1,3 +1,7 @@
+# Targeted YouTube Advertisements
+
+Classification of YouTube Videos into Threat and Non-Threat
+
 Each folder contains a readme file which give the information of what the code is built for.
 Additionally the readme will direct where to go from one folder to another
 
