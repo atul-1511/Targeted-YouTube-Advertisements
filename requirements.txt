@@ -21,7 +21,7 @@ gensim==3.8.0
 google-api-python-client==1.7.10
 google-auth==1.6.3
 google-auth-httplib2==0.0.3
-httplib2==0.13.0
+httplib2==0.18.0
 idna==2.8
 imagesize==1.1.0
 inflection==0.3.1
